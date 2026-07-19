@@ -5,8 +5,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
 export const metadata = {
-  title: "Your Name - Software Engineer",
-  description: "Portfolio of Your Name, Software Engineer.",
+  title: "Jhan Rhey Magsakay - Junior QA Engineer",
+  description: "Portfolio of Jhan Rhey S. Magsakay, Junior QA Engineer.",
 };
 
 export default function RootLayout({ children }) {
