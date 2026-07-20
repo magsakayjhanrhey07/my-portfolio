@@ -32,7 +32,7 @@ export default function Hero() {
             <a href="https://www.linkedin.com/in/jhan-rhey-magsakay-300920416/" className="flex items-center gap-1 hover:text-white">
               LinkedIn
             </a>
-            <a href="https://github.com/yourname" className="flex items-center gap-1 hover:text-white">
+            <a href="https://github.com/magsakayjhanrhey07" className="flex items-center gap-1 hover:text-white">
               GitHub
             </a>
           </div>
